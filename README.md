@@ -1,6 +1,6 @@
-# ENTER TITLE OF PROJECT HERE
+# San Jose Arrests
 
-Enter basic description of project here in 1-2 sentences.
+Arrests Reported in San Jose from 2015-2020
 
 ## TOC
 
@@ -24,17 +24,16 @@ Enter basic description of project here in 1-2 sentences.
     |__ processed-dataset.csv
 |__ figures
     |__ .keep
-    |__ eda-distribution-dates.png
-    |__ eda-distribution-headline-word-count.png
-    |__ fp-tp-heatmap.png
-    |__ ...
+    |__ eda-distribution-hispanic-arrest-reasons.png
+    |__ eda-distribution-total-arrest-reasons.png
+    |__ eda-distribution-total-races.png
 |__ models
     |__ .keep
     |__ trained-model-1.pkl
     |__ trained-model-2.pkl
     |__ ...
 |__ cleaning-and-eda.ipynb
-|__ ml-project-name-here.ipynb
+|__ ml-san-jose-arrests.ipynb
 |__ model-card.pdf
 |__ reflective-memo.pdf
 |__ README.md
